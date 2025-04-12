@@ -1,6 +1,11 @@
-![image](https://github.com/user-attachments/assets/14f068a9-7fd7-4b4e-8ca1-894391cb33d0)
+![HackINSAN 2024 Banner Image](https://github.com/user-attachments/assets/d30f8c77-ebe6-4b1e-8b42-b459551121bd)
+> [!NOTE]
+> This project is built for the [HackINSAN 2024 Hackathon](https://permatainsan.usim.edu.my/hackinsan/) for the Pemuda GEMA problem statement.
+>
+> **Problem Statement**: Design and develop a technological solution that improves educational access, quality, or management in underserved communities.
 
 # EqualEd
+![image](https://github.com/user-attachments/assets/14f068a9-7fd7-4b4e-8ca1-894391cb33d0)
 
 EqualEd is a Next.js-based educational platform designed to provide equal learning opportunities through online courses and resources via AI-powered translations.
 
